@@ -15,13 +15,13 @@ function Poem() {
         <br>
         May our love grow much more as we get established in this land. Love you 
         <br>
-        5ran6
+        5ran6 😘
           ` 
           
           ],
           typeSpeed: 90,
           backSpeed: 80,
-          backDelay: 300,
+          backDelay: 500,
           loop: true,
         });
   
