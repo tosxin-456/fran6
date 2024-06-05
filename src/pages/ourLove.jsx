@@ -17,8 +17,8 @@ function Ourlove() {
           ` 
           
           ],
-          typeSpeed: 200,
-          backSpeed: 200,
+          typeSpeed: 5,
+          backSpeed: 20,
           backDelay: 300,
           loop: true,
         });

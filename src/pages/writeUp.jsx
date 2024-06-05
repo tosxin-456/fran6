@@ -19,8 +19,8 @@ function Poem() {
           ` 
           
           ],
-          typeSpeed: 200,
-          backSpeed: 200,
+          typeSpeed: 90,
+          backSpeed: 80,
           backDelay: 300,
           loop: true,
         });
