@@ -3,7 +3,7 @@ import React , {useRef, useEffect} from 'react'
 import Typed from 'typed.js';
 
 
-function Poem() {
+function Ourlove() {
     const el = useRef(null);
 
     useEffect(() => {
@@ -11,9 +11,7 @@ function Poem() {
         const typed = new Typed(el.current, {
           strings: [
           `
-        Happy One Year Anniversary In Canada 🌹❤️
-        <br>
-        May our love grow much more as we get established in this land. Love you 
+          May our love grow much more as we get established in this land. Love you 
         <br>
         5ran6
           ` 
@@ -35,7 +33,7 @@ function Poem() {
     width={'100%'}
     zIndex={1000}
     position={'fixed'}
-    marginTop={'50px'}
+    marginTop={'150px'}
     >
       <Box
       color={'white'}
@@ -58,4 +56,4 @@ function Poem() {
   )
 }
 
-export default Poem
+export default Ourlove

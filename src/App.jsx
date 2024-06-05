@@ -5,7 +5,7 @@ import './App.css'
 import Flower from './pages/flower'
 import Butterfly from './pages/butterfly'
 import Poem from './pages/writeUp'
-
+import Ourlove from './pages/ourLove'
 
 function App() {
 
@@ -16,6 +16,7 @@ function App() {
     <Poem/>
     <Flower/>
     <Butterfly/>
+     <Ourlove/>
     </div>
     </>
   )
