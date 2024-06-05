@@ -45,6 +45,7 @@ function Poem() {
       textAlign={'center'}
       >
         <Text
+        fontFamily='"Satoshi", "sans-serif"'
         as="div" display="inline-block"
         width={'80%'}
         margin={'auto'}
